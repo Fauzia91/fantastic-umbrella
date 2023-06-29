@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End 
 
 ## Project Description
 
@@ -11,7 +11,6 @@ A back end e-commerce site using Express.js API with configuration using Sequeli
 [Usage](#usage)
 [Contributing](#contributing)
 [License](#license)
-[Deployed](#deployed)
 [Contact](#contact) 
 
 ### Drive Link
@@ -50,10 +49,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Deployed
-
-https://fauzia91.github.io/About-Me-Portfolio/
 
 ## Contact
 
