@@ -16,7 +16,15 @@ router.get('/', async (req, res) => {
   // be sure to include its associated Products
 });
 
-router.get('/:id', (req, res) => {
+router.get('/:id', async (req, res) => {
+  try{
+    const result = await Category.findOne({
+      where: {id: req.params.id}
+    });
+    res.json(result)
+ } catch (err){
+   console.log(err)
+ }
   // find one category by its `id` value
   // be sure to include its associated Products
 });
